@@ -17,4 +17,4 @@ const asd = {
 	as: Role2.ADMIN1,
 };
 console.log(addd);
-console.log(asd);
+console.log(asd["as"]);
